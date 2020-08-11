@@ -14,8 +14,8 @@ This is a dashboard developed using Vue.js framework. The webpage is responsive.
 
 web-view:
 
-![]('images/web-view.png')
+![](images/web-view.png)
 
 mobile-view:
 
-![]('images/mobile-view.png')
+![](images/mobile-view.png)
