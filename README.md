@@ -1,29 +1,21 @@
 # remote-roofing
 
-## Project setup
+### Installation :
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+This is a dashboard developed using Vue.js framework. The webpage is responsive.
 
-```
-npm run build
-```
+web-view:
 
-### Lints and fixes files
+![]('/images/web-view.png')
 
-```
-npm run lint
-```
+mobile-view:
 
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![]('/images/mobile-view.png')
